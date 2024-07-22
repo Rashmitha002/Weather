@@ -14,7 +14,7 @@ Tools Used:-
 Backend: Java, Spring Boot, IntelliJ IDEA
 Frontend: Angular, Visual Studio Code
 Third-Party API: https://openweathermap.org/api
-Version Control: Git()
+Version Control: Git(https://github.com/Rashmitha002/Weather.git)
 
 
 Usage:-
